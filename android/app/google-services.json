@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "910440612335",
+    "firebase_url": "https://digibell-12e16-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "digibell-12e16",
+    "storage_bucket": "digibell-12e16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910440612335:android:621ea15aaa045adac0361a",
+        "android_client_info": {
+          "package_name": "com.example.bell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lCvTbT7YgCqXjY55kWJZnyBVeGVpqIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910440612335:android:af7a90e2fab01b56c0361a",
+        "android_client_info": {
+          "package_name": "com.example.study_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lCvTbT7YgCqXjY55kWJZnyBVeGVpqIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910440612335:android:87b75cbacce9216fc0361a",
+        "android_client_info": {
+          "package_name": "com.example.tutu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lCvTbT7YgCqXjY55kWJZnyBVeGVpqIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
